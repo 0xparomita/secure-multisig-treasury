@@ -1,0 +1,8 @@
+{
+  "name": "secure-multisig-treasury",
+  "version": "1.0.0",
+  "description": "Multi-signature wallet for secure treasury management",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
